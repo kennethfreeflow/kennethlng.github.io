@@ -2,7 +2,7 @@
 title: 'Motley Waffle Bar'
 subtitle: 'Small business'
 date: 2017-08-30 00:00:00
-description: Specialty bakery shop selling authentic Belgian waffles with pearl sugar at the Saturday farmers' market. 
+description: Motley Waffle Bar is a specialty bakery shop selling authentic Belgian waffles with pearl sugar at the Hayward farmers' market. 
 featured_image: '/images/projects/motley-waffle/ashwin-vaswani-rITQq_QlOIc-unsplash.jpg'
 ---
 

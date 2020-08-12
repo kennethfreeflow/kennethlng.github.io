@@ -2,7 +2,7 @@
 title: 'TicTacToe'
 subtitle: 'Online, multiplayer turn-based strategy game'
 date: 2020-07-07 00:00:00
-description: Made with Unity, Firestore, Cloud Functions, and Node.js.
+description: Prototype for an online multiplayer version of TicTacToe using Firebase for the backend. Made with Unity, Firestore, Cloud Functions, and Node.js.
 featured_image: '/images/projects/tictactoe/tictactoe-cover.png'
 ---
 

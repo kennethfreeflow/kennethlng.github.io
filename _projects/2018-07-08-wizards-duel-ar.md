@@ -3,7 +3,7 @@ title: "Wizards' Duel AR"
 subtitle: 'Real-time, multiplayer augmented reality mobile game'
 date: 2018-07-08 00:00:00
 description: Two or more players battle each other in real-time using magic spells and shields in augmented reality. Made with Unity, GameSparks, and ARCore.
-featured_image: '/images/projects/wizards-duel-ar/CoverAlt@0.5x.png'
+featured_image: '/images/projects/wizards-duel-ar/Cover-CodenameNeon.png'
 ---
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/FaroffFrenchGelada' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
@@ -151,3 +151,7 @@ If you plan on making a game similar to this project, I recommend trying the fol
 - Spawn items and equipment on the floor or wall that you can position yourself around rather than attaching them in front of the phone. For obvious reasons, you just can’t see anything if you put, let’s say, a shield in front.
 - Draw symbols on the floor below an opponent to cast spells. Since this uses raycasting, players can feel their touch actions on the phone screen be transposed directly onto the real world.
 - Be creative with projectiles. Your eyes have no depth perception on the phone screen because everything is scaled down. You have no way of gauging where and how far you’re shooting — try it yourself by turning off the cross-hairs in a first-person shooter game. However, there are ways to address these challenges. You could try, for example, line renderers instead of particles for the projectile trail because the line renderer visibly reduces in size the farther it travels. You could also have a more concrete object, like a ball or rocket.
+
+---
+
+*Cover image credit goes to Niantic*
