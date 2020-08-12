@@ -24,7 +24,7 @@ menu_settings:
     #   url: '/contact'
 
 footer_settings:
-  footer_tagline: Kenneth Ng
+  footer_tagline: Kenneth L. Ng - Multidisciplinary Developer
 
 hero_settings:
   overlay_opacity: 0.8
