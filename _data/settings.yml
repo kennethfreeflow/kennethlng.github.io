@@ -1,21 +1,25 @@
 basic_settings:
-  site_title: Kenneth Ng
+  site_title: kennethlng
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
-  logo_width: 200
+  logo_image:
+  logo_width: 50
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
+    - title: 'Projects'
+      url: '/projects'
     - title: 'Cases'
       url: '/cases'
     # - title: 'Blog'
-    #   url: '/blog/'
-    - title: 'About'
-      url: '/about'
+      # url: '/blog'
+    - title: 'Curriculum Vitae'
+      url: '/cv'
+    # - title: 'About'
+    #   url: '/about'
     # - title: 'Contact'
     #   url: '/contact'
 

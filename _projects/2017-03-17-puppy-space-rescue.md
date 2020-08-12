@@ -1,8 +1,8 @@
 ---
 title: 'Puppy Space Rescue'
-subtitle: 'Unity'
+subtitle: 'Mobile arcade game'
 date: 2017-03-30 00:00:00
-description: Blast off into space on an epic journey to save your puppy friends. Drag on the screen to dodge speeding asteroids, huge planets, and nefarious kitty aliens. Test your reflexes, earn high scores, and unlock new characters.
+description: Blast off into space on an epic journey to save your puppy friends. Drag on the screen to dodge speeding asteroids, huge planets, and nefarious kitty aliens. Test your reflexes, earn high scores, and unlock new characters. Made with Unity.
 featured_image: '/images/projects/puppy-space-rescue/post-cover.png'
 ---
 

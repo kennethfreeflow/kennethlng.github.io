@@ -1,8 +1,8 @@
 ---
 title: "Wizards' Duel AR"
-subtitle: 'Unity, GameSparks, ARCore'
+subtitle: 'Real-time, multiplayer augmented reality mobile game'
 date: 2018-07-08 00:00:00
-description: Two or more players battle each other in real-time using magic spells and shields in augmented reality.
+description: Two or more players battle each other in real-time using magic spells and shields in augmented reality. Made with Unity, GameSparks, and ARCore.
 featured_image: '/images/projects/wizards-duel-ar/CoverAlt@0.5x.png'
 ---
 

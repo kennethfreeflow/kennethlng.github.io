@@ -1,8 +1,8 @@
 ---
 title: 'Mind the Trap'
-subtitle: 'Unreal Engine'
+subtitle: 'Multiplayer party game'
 date: 2017-01-30 00:00:00
-description: Mind the Trap is a console party game that pits you and your friends against each other in a mix of dungeon platforming and minigames. The game plays on the mischievous balance between cooperation and opportunistic backstabbing.
+description: Mind the Trap is a console party game that pits you and your friends against each other in a mix of dungeon platforming and minigames. The game plays on the mischievous balance between cooperation and opportunistic backstabbing. Made with Unreal Engine.
 featured_image: '/images/projects/mind-the-trap/cover-art.png'
 ---
 
