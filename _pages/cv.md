@@ -45,13 +45,13 @@ Led a team of engineers, artists, and musicians to develop [Mind the Trap](/mind
 
 ### Santa Clara University
 
-#### MBA in Product Management
+#### MBA (Product Management, Entrepreneurship)
 
 <caption>Sep 2018 - Current</caption>
 
 ### University of California, San Diego
 
-#### Bioengineering
+#### B.S., Bioengineering, 3.65 GPA
 
 <caption>Sep 2007 - Jun 2012</caption>
 
