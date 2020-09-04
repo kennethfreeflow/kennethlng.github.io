@@ -12,6 +12,12 @@ featured_image: '/images/projects/whats-reopening/cover@1x.png'
 
 ![](/images/projects/whats-reopening/Screen Shot 2020-09-04 at 3.31.19 PM.png)
 
+![](/images/projects/whats-reopening/Screen Shot 2020-09-04 at 3.34.00 PM.png)
+
+![](/images/projects/whats-reopening/Screen Shot 2020-09-04 at 3.34.28 PM.png)
+
+![](/images/projects/whats-reopening/Screen Shot 2020-09-04 at 3.34.53 PM.png)
+
 ## Stack
 
 The website is built with React for the front-end and Firebase (Firestore, Cloud Functions) for the backend. I'm using Material UI for the UI framework. Location data, photos, and the map are powered by Google Maps API. 
