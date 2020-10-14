@@ -17,9 +17,8 @@ title: Kenneth Ng
 
 <caption>Feb 2020 - Current</caption>
 
-[WhatsReopening.com](/whats-reopening): Serverless web app for listing and adding places, their current status, and when they are reopening during COVID-19. 
-
-[Cider](/cider): iOS social bookmarker manager for saving links and sharing collections with friends. 
+- [WhatsReopening.com](/whats-reopening): Serverless web app for listing and adding places, their current status, and when they are reopening during COVID-19. Made with `React`, `Firebase`, `Node.js`, and `Google Maps API`. 
+- [Cider](/cider): Web and iOS social bookmarker manager for saving links and sharing collections with friends. Made with `React`, `Firebase`, `Node.js`, and `SwiftUI`. 
 
 ### Alibaba
 
@@ -27,11 +26,10 @@ title: Kenneth Ng
 
 <caption>Nov 2018 - Jan 2020</caption>
 
-Led the end-to-end product development for exploratory retail products from ideation to validation. 
+Led the end-to-end product development for exploratory retail products from ideation to validation:
 
-[Refinity](/refinity): Mixed reality shopping kiosk that allows users to visualize products in 3D and interact with them using hand gestures.
-
-[Digiroma](/digiroma): Product web portal that allowed users to view product data in interactive charts. 
+- [Refinity](/refinity): Mixed reality shopping kiosk that allowed users to visualize products in 3D and interact with them using hand gestures. Made with `Unity`, `SeeFront`, and `UltraLeap`. 
+- [Digiroma](/digiroma): Full-stack product web portal that allowed users to edit/view product information and visualize data in interactive charts. Made with `React`, `Node.js`, `Viser.js`, `MySQL`, and `Ant Design`.
 
 ### Beach Day Studios
 
@@ -39,7 +37,9 @@ Led the end-to-end product development for exploratory retail products from idea
 
 <caption>Jun 2018 - Nov 2018</caption>
 
-Developed a modular, de-coupled game architecture for [vCoder](/vcoder), an educational virtual reality game, using singletons and event-driven programming. 
+Developed [vCoder](/vcoder), an educational virtual reality game made with `Unity`. Constructed a modular, de-coupled game architecture using singletons and event-driven programming. 
+
+Won the 2018 Oculus Launch Pad Scholarship for innovation in design. 
 
 ### Dissonance Entertainment
 
@@ -47,7 +47,10 @@ Developed a modular, de-coupled game architecture for [vCoder](/vcoder), an educ
 
 <caption>Aug 2015 - Jul 2017</caption>
 
-Led a team of engineers, artists, and musicians to develop real-time multiplayer games, including [Mind the Trap](/mind-the-trap), an online multiplayer party game, and [Wizard's Duel AR](/wizards-duel-ar), an augmented reality mobile game. 
+Led a team of engineers, artists, and musicians to develop real-time multiplayer games:  
+
+- [Mind the Trap](/mind-the-trap): Online multiplayer party game. Made with `Unreal Engine`. 
+- [Wizard's Duel AR](/wizards-duel-ar): Real-time, multiplayer augmented reality mobile game. Made with `Unity`, `GameSparks`, and `Google AR Core`.   
 
 ---
 
@@ -55,7 +58,7 @@ Led a team of engineers, artists, and musicians to develop real-time multiplayer
 
 ### Santa Clara University
 
-#### MBA (Product Management, Entrepreneurship)
+#### MBA, Product Management / Entrepreneurship
 
 <caption>Sep 2018 - Current</caption>
 
