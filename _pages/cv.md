@@ -17,8 +17,9 @@ title: Kenneth Ng
 
 <caption>Feb 2020 - Current</caption>
 
-- [WhatsReopening.com](/whats-reopening): Serverless web app for listing and adding places, their current status, and when they are reopening during COVID-19. Made with `React`, `Firebase`, `Node.js`, and `Google Maps API`. 
-- [Cider](/cider): Web and iOS social bookmarker manager for saving links and sharing collections with friends. Made with `React`, `Firebase`, `Node.js`, and `SwiftUI`. 
+- Developing [NMBO](/nmbo), a serverless web app to create and share checklists. Made with `React`, `Firebase` (`Firestore`, `Cloud Functions`), `Node.js`, `Next.js`, and `Bulma`. 
+- Prototyped [WhatsReopening.com](/whats-reopening), a serverless web app for listing and adding places, their current status, and when they are reopening during COVID-19. Made with `React`, `Firebase`, `Node.js`, and `Google Maps API`. 
+- Developing [Cider](/cider), a web and iOS social bookmarker manager for saving links and sharing collections with friends. Made with `React`, `Firebase`, `Node.js`, and `SwiftUI`. 
 
 ### Alibaba
 
@@ -26,10 +27,9 @@ title: Kenneth Ng
 
 <caption>Nov 2018 - Jan 2020</caption>
 
-Led the end-to-end product development for exploratory retail products from ideation to validation:
-
-- [Refinity](/refinity): Mixed reality shopping kiosk that allowed users to visualize products in 3D and interact with them using hand gestures. Made with `Unity`, `SeeFront`, and `UltraLeap`. 
-- [Digiroma](/digiroma): Full-stack product web portal that allowed users to edit/view product information and visualize data in interactive charts. Made with `React`, `Node.js`, `Viser.js`, `MySQL`, and `Ant Design`.
+- Led the end-to-end product development for exploratory retail products from ideation to validation.
+- Developed [Refinity](/refinity), a mixed reality shopping kiosk that allowed users to visualize products in 3D and interact with them using hand gestures. Made with `Unity`, `SeeFront`, and `UltraLeap`. 
+- Developed [Digiroma](/digiroma), a full-stack product web portal for editing/viewing product information and visualizing data in interactive charts. Made with `React`, `Node.js`, `Viser.js`, `MySQL`, and `Ant Design`.
 
 ### Beach Day Studios
 
@@ -37,9 +37,9 @@ Led the end-to-end product development for exploratory retail products from idea
 
 <caption>Jun 2018 - Nov 2018</caption>
 
-Developed [vCoder](/vcoder), an educational virtual reality game made with `Unity`. Constructed a modular, de-coupled game architecture using singletons and event-driven programming. 
-
-Won the 2018 Oculus Launch Pad Scholarship for innovation in design. 
+- Developed [vCoder](/vcoder), an educational virtual reality game that teaches programming fundamentals using problem-solving objectives. Made with `Unity`.
+- Constructed a modular, de-coupled game architecture using singletons and event-driven programming. 
+- Won the 2018 Oculus Launch Pad Scholarship for innovation in design. 
 
 ### Dissonance Entertainment
 
@@ -47,10 +47,9 @@ Won the 2018 Oculus Launch Pad Scholarship for innovation in design.
 
 <caption>Aug 2015 - Jul 2017</caption>
 
-Led a team of engineers, artists, and musicians to develop real-time multiplayer games:  
-
-- [Mind the Trap](/mind-the-trap): Online multiplayer party game. Made with `Unreal Engine`. 
-- [Wizard's Duel AR](/wizards-duel-ar): Real-time, multiplayer augmented reality mobile game. Made with `Unity`, `GameSparks`, and `Google AR Core`.   
+- Led a team of engineers, artists, and musicians to develop real-time multiplayer games.
+- Developed [Mind the Trap](/mind-the-trap), an online multiplayer party game. Made with `Unreal Engine`. 
+- Developed [Wizard's Duel AR](/wizards-duel-ar), a real-time, multiplayer augmented reality mobile game. Made with `Unity`, `GameSparks`, and `Google AR Core`.   
 
 ---
 
