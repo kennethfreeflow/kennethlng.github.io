@@ -1,6 +1,6 @@
 ---
 title: Kenneth Ng
-# subtitle: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: Software Engineer | MBA in Product Management
 # description: Personal is the perfect theme for developers, designers and other creatives.
 # featured_image: /images/IMG_4697_Original.jpg
 ---
@@ -50,6 +50,13 @@ title: Kenneth Ng
 - Led a team of engineers, artists, and musicians to develop real-time multiplayer games.
 - Developed [Mind the Trap](/mind-the-trap), an online multiplayer party game. Made with `Unreal Engine`. 
 - Developed [Wizard's Duel AR](/wizards-duel-ar), a real-time, multiplayer augmented reality mobile game. Made with `Unity`, `GameSparks`, and `Google AR Core`.   
+
+---
+
+## Skills
+
+- Technologies: `React`, `Node.js`, `Firebase`, `Google Cloud Platform (GCP)`, `Firebase` (`Authentication`, `Firestore`, `Cloud Functions`), `Unity`, `MySQL`, `NoSQL`, `Github`
+- Languages: `JavaScript`, `C#`, `SwiftUI`
 
 ---
 
