@@ -10,7 +10,10 @@ collections:
   posts:
     output: true
     permalink: /:slug
-  projects:
+  apps:
+    output: true
+    permalink: /:slug
+  3d: 
     output: true
     permalink: /:slug
   cases:
@@ -38,7 +41,13 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "apps"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: ""
+      type: "3d"
     values:
       layout: "project"
   - 

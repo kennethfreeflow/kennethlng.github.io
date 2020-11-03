@@ -1,0 +1,50 @@
+---
+layout: default
+title: 3D
+description: Games and AR/VR
+featured_image: /images/minh-pham-HI6gy-p-WBI-unsplash.jpg
+---
+
+<section class="hero hero--single">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>Games and AR/VR Applications</h1>
+		<!-- <p>Check out what I'm making.</p> -->
+
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for app in site.3d reversed %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ app.featured_image | relative_url }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ app.url | relative_url }}">{{ app.title }}</a></h2>
+					<p class="post__subtitle">{{ app.subtitle }}</p>
+					<p class="post__description">{{ app.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>
+
