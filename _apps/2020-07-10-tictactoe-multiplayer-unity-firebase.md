@@ -42,7 +42,7 @@ Once the game is over, you can return to the lobby to find another match by pres
 
 ### Signing In
 
-For simplicity's sake, I used Firebase Authentication's anonymous sign-in.  
+For simplicity's sake, I used Firebase Authentication's anonymous sign-in, so there's no need for creating an account.  
 
 ### Matchmaking
 
