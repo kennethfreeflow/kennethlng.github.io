@@ -6,7 +6,7 @@ description: Get the current status of your favorite places and find out when th
 featured_image: '/images/projects/whats-reopening/cover@1x.png'
 ---
 
-[WhatsReopening.com](whatsreopening.com) is a community-driven website I'm currently developing to track places (establishments, geographic locations, and prominent points of interest), their current status, and when they're reopening during COVID-19.
+[WhatsReopening.com](https://whatsreopening.com) is a community-driven website I'm currently developing to track places (establishments, geographic locations, and prominent points of interest), their current status, and when they're reopening during COVID-19.
 
 <a href="https://github.com/narwhal-sightings/whats-reopening-web" class="button button--large">See the project on Github</a>
 
