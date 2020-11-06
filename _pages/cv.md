@@ -17,9 +17,9 @@ subtitle: Software Engineer | MBA in Product Management
 
 <caption>Feb 2020 - Current</caption>
 
-- Developing [NMBO](/nmbo), a serverless web app to create and share checklists. Made with `React`, `Firebase` (`Firestore`, `Cloud Functions`), `Node.js`, `Next.js`, and `Bulma`. 
-- Prototyped [WhatsReopening.com](/whats-reopening), a serverless web app for listing and adding places, their current status, and when they are reopening during COVID-19. Made with `React`, `Firebase`, `Node.js`, and `Google Maps API`. 
-- Developing [Cider](/cider), a web and iOS social bookmarker manager for saving links and sharing collections with friends. Made with `React`, `Firebase`, `Node.js`, and `SwiftUI`. 
+- Building [NMBO](/nmbo), a serverless web app to create and share checklists, using server-side rendering with `Next.js`. Made with `React`, `Firebase` (`Firestore`, `Cloud Functions`), `Node.js`, and `Bulma`. 
+- Prototyped [WhatsReopening.com](/whats-reopening), a serverless web app for listing and adding places, their current status, and when they are reopening during COVID-19. Data verified using `Google Maps API`. Made with `React`, `Firebase`, and `Node.js`. 
+- Developed [Cider](/cider), a web and iOS social bookmarker manager for saving links and sharing collections with friends. Made with `React`, `Firebase`, `Node.js`, and `SwiftUI`. 
 
 ### Alibaba
 
@@ -28,8 +28,8 @@ subtitle: Software Engineer | MBA in Product Management
 <caption>Nov 2018 - Jan 2020</caption>
 
 - Led the end-to-end product development for exploratory retail products from ideation to validation.
-- Developed [Refinity](/refinity), a mixed reality shopping kiosk that allowed users to visualize products in 3D and interact with them using hand gestures. Made with `Unity`, `SeeFront`, and `UltraLeap`. 
-- Developed [Digiroma](/digiroma), a full-stack product web portal for editing/viewing product information and visualizing data in interactive charts. Made with `React`, `Node.js`, `Viser.js`, `MySQL`, and `Ant Design`.
+- Created [Digiroma](/digiroma), a full-stack product web portal for editing/viewing product information and visualizing data in interactive charts. Implemented RESTful API, live search, and role-based access control. Made with `React`, `Node.js`, `Viser.js`, `MySQL`, and `Ant Design`.
+- Built [Refinity](/refinity), a mixed reality shopping kiosk that allowed users to visualize products in 3D and interact with them using hand gestures. Made with `Unity`, `SeeFront`, and `UltraLeap`. 
 
 ### Beach Day Studios
 
@@ -49,7 +49,7 @@ subtitle: Software Engineer | MBA in Product Management
 
 - Led a team of engineers, artists, and musicians to develop real-time multiplayer games.
 - Developed [Mind the Trap](/mind-the-trap), an online multiplayer party game. Made with `Unreal Engine`. 
-- Developed [Wizard's Duel AR](/wizards-duel-ar), a real-time, multiplayer augmented reality mobile game. Made with `Unity`, `GameSparks`, and `Google AR Core`.   
+- Prototyped [Wizard's Duel AR](/wizards-duel-ar), a real-time, multiplayer augmented reality mobile game. Made with `Unity`, `GameSparks`, and `Google AR Core`.   
 
 ---
 
