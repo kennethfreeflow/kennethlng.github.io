@@ -2,4 +2,4 @@
 
 ### `bundle exec jekyll serve`
 
-Run the project locally by opening `localhost:4000`.
+Run the project locally and open `localhost:4000`.
