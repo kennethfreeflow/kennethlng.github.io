@@ -1,6 +1,6 @@
 ---
 title: Kenneth Ng
-subtitle: Software Engineer | MBA in Product Management
+subtitle: Software Engineer
 # description: Personal is the perfect theme for developers, designers and other creatives.
 # featured_image: /images/IMG_4697_Original.jpg
 ---
