@@ -10,7 +10,7 @@ collections:
   posts:
     output: true
     permalink: /:slug
-  apps:
+  projects:
     output: true
     permalink: /:slug
   3d: 
@@ -41,7 +41,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "apps"
+      type: "projects"
     values:
       layout: "project"
   -

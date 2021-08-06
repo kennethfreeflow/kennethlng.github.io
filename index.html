@@ -13,11 +13,39 @@ featured_image: /images/IMG_4697_Original.jpg
 
 	<div class="wrap">
 
-		<h1>👋🏻 My name is Kenneth Ng</h1>
-		<p>I'm a multidisciplinary developer specializing in product ideation, rapid prototyping, and development using React, Firebase, and Unity. I also make business plans and investor pitch decks.</p>
+		<h1>👋🏻 Hi! I'm Kenneth Ng</h1>
+		<p>I'm a web developer specializing in product ideation, rapid prototyping, and development using React and Firebase. I'm currently the founding engineer at Freeflow.</p>
 
-		<p><a href="/apps" class="button button--large">See my projects</a></p>
-		<!-- {% include socials.html %} -->
+		<!-- <p><a href="/projects" class="button button--large">See my projects</a></p> -->
+		{% include socials.html %}
+
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for project in site.projects reversed %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
+					<p class="post__subtitle">{{ project.subtitle }}</p>
+					<p class="post__description">{{ project.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
 
 	</div>
 
