@@ -8,25 +8,25 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Apps'
-      url: '/apps'
-    - title: '3D'
-      url: '/3d'
-    - title: 'Cases'
-      url: '/cases'
+    # - title: 'Home'
+    #   url: '/'
+    # - title: 'Projects'
+    #   url: '/projects'
+    # - title: '3D'
+    #   url: '/3d'
+    # - title: 'Cases'
+    #   url: '/cases'
     # - title: 'Blog'
       # url: '/blog'
-    - title: 'Curriculum Vitae'
-      url: '/cv'
+    # - title: 'Curriculum Vitae'
+    #   url: '/cv'
     # - title: 'About'
     #   url: '/about'
     # - title: 'Contact'
     #   url: '/contact'
 
 footer_settings:
-  footer_tagline: Kenneth L. Ng - Multidisciplinary Developer
+  footer_tagline: Kenneth L. Ng
 
 hero_settings:
   overlay_opacity: 0.8
@@ -74,7 +74,7 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#3498db'
+  accent_color: '#02C39A'
   border_color: '#dddddd'
   hero_background_color: '#132930'
   hero_text_color: '#ffffff'
